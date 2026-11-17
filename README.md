@@ -49,7 +49,7 @@ E.g., suppose the link to the folder is `https://drive.google.com/drive/folders/
 If the API did not yet get approved and the maximum amount of users is reached the credentials.json file will stop working. To fix this you can either set up your own OAuth login at the [Google Cloud Platform](https://console.cloud.google.com/apis/) and edit the credentials.json file or use the fast way and get your credentials by using the [Quickstart API](https://console.developers.google.com/henhouse/?pb=%5B%22hh-0%22,%22drive%22,null,%5B%5D,%22https:%2F%2Fdevelopers.google.com%22,null,%5B%5D,null,%22Enable%20the%20Drive%20API%22,1,null,%5B%5D,false,false,null,null,null,null,false,null,false,false,null,null,null,%22DESKTOP%22,null,%22Quickstart%22,true,%22Quickstart%22,null,null,false%5D) - simply click on create in the bottom right. The credentials.json file must be placed in the same folder as the executable.
 
 # Download
-You can find compiled binaries [here](https://github.com/timonbldw/GoogleDriveOrphanFixer/releases) or build from source.
+You can find compiled binaries [here](https://github.com/kairosmeer/GoogleDriveOrphanFixer/releases) or build from source.
 
 Make sure to install the .NET Core 3.1 Runtime in case you use .NET Core version of v1.0!
 

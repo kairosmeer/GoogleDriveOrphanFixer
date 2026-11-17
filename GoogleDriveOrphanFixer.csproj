@@ -5,7 +5,7 @@
     <TargetFramework>net461</TargetFramework>
     <StartupObject>GoogleDriveOrphanFixer.Program</StartupObject>
     <ApplicationIcon>assets\icon_100.ico</ApplicationIcon>
-    <Authors>timonbldw</Authors>
+    <Authors>kairosmeer</Authors>
     <Description>Tool for restoring orphaned files from Google Drive</Description>
     <PackageLicenseFile>License.txt</PackageLicenseFile>
     <SignAssembly>false</SignAssembly>
